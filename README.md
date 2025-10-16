@@ -6,6 +6,6 @@ Welcome to my portfolio of cybersecurity projects. This repository contains a co
 
 Here are the projects I've worked on. Each directory contains a dedicated README with details about the objectives, methods, and outcomes.
 
-| Project Title | Category | Key Skills Demonstrated |
+| | Project Title | Category | Key Skills Demonstrated |
 |---|---|---|---|
 |01| **[WebApp Pentest: OWASP Juice Shop](./01-WebApp-Pentest)** | Offensive Security | `Web Pentesting`, `Vulnerability Assessment`, `Burp Suite`, `SQLi`, `XSS`, `Reporting` |
