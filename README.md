@@ -8,4 +8,4 @@ Here are the projects I've worked on. Each directory contains a dedicated README
 
 | | Project Title | Category | Key Skills Demonstrated |
 |---|---|---|---|
-|01| **[WebApp Pentest: OWASP Juice Shop](./01-WebApp-Pentest)** | Offensive Security | `Web Pentesting`, `Vulnerability Assessment`, `Burp Suite`, `SQLi`, `XSS`, `Reporting` |
+|01| **[WebApp Pentest: OWASP Juice Shop](./01-WebApp-Pentest)** | Offensive Security | `Web Pentesting`, `Vulnerability Assessment`, `Burp Suite`, `SQLi`,`CSRF`, `XSS`, `Reporting` |
